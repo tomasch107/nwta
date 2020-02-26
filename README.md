@@ -31,3 +31,7 @@ Narzędzia do testowania aplikacji webowych (frontend)
 Narzędzia do testowania aplikacji webowych (backend)
 
 Narzędzia do zarządzania bazą danych (na przykładzie Liquibase)
+
+Przepływ informacji i dokumntowanie projektu (np. Confluence)
+
+Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API
