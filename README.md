@@ -1,37 +1,45 @@
 # NWTA :: zagadnienia
 
-Systemy kontroli wersji i bazujące na nich serwisy internetowe
+Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez GitHuba, dopisując na końcu tematu w nawiasach kwadratowych swoje inicjały (to pierwszy test Waszych umiejętności). **Uwaga:** decyduje kolejność zgłoszeń!
 
-Metody pracy z repozytorium (na przykładzie Git Flow)
+- Edytory kodu (również online) i środowiska programistyczne
 
-Narzędzia do modelowania i prototypowania
+- Systemy kontroli wersji i bazujące na nich serwisy internetowe
 
-Narzędzia automatyzujące budowanie oprogramowania: Java
+- Metody pracy z repozytorium (na przykładzie Git Flow)
 
-Narzędzia automatyzujące budowanie oprogramowania: web
+- Narzędzia do modelowania i prototypowania
 
-Narzędzia automatyzujące budowanie oprogramowania: ???
+- Narzędzia automatyzujące budowanie oprogramowania: Java
 
-Automatyczne testowanie na przykładzie Selenium
+- Narzędzia automatyzujące budowanie oprogramowania: web
 
-Pomiar jakości kodu
+- Narzędzia automatyzujące budowanie oprogramowania: C/C++
 
-Narzędzia do bug trackingu
+- Automatyczne testy funkcjonalne na przykładzie Selenium
 
-Zarządzanie projektem (np. Jira)
+- Pomiar jakości kodu
 
-Systemy CD/CI
+- Narzędzia do bug trackingu
 
-Generatory dokumentacji
+- Zarządzanie projektem (np. Jira)
 
-Wirtualne środowiska programistyczne / kontenery: np. Vagrant, Docker
+- Systemy CD/CI
 
-Narzędzia do testowania aplikacji webowych (frontend)
+- Generatory dokumentacji, języki tworzenia dokumentacji (np. Markdown)
 
-Narzędzia do testowania aplikacji webowych (backend)
+- Generatory aplikacji (np. webowe, może być jHipster)
 
-Narzędzia do zarządzania bazą danych (na przykładzie Liquibase)
+- Wirtualne środowiska programistyczne / kontenery: np. Vagrant, Docker
 
-Przepływ informacji i dokumntowanie projektu (np. Confluence)
+- Środowisko nodeJS (node, npm, nvm), tworzenie własnych narzędzi (przykład)
 
-Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API
+- Narzędzia do testowania aplikacji webowych (frontend)
+
+- Narzędzia do testowania aplikacji webowych (backend)
+
+- Narzędzia do zarządzania bazą danych (na przykładzie Liquibase)
+
+- Przepływ informacji i dokumentowanie projektu (np. Confluence)
+
+- Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API
