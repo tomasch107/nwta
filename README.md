@@ -2,7 +2,7 @@
 
 Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez GitHuba, dopisując na końcu tematu w nawiasach kwadratowych swoje inicjały (to pierwszy test Waszych umiejętności). **Uwaga:** decyduje kolejność zgłoszeń!
 
-- Edytory kodu (również online) i środowiska programistyczne
+- Edytory kodu (również online) i środowiska programistyczne [AS]
 
 - Systemy kontroli wersji i bazujące na nich serwisy internetowe
 
