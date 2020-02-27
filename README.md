@@ -16,13 +16,13 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Narzędzia automatyzujące budowanie oprogramowania: C/C++
 
-- Automatyczne testy funkcjonalne na przykładzie Selenium
+- Automatyczne testy funkcjonalne na przykładzie Selenium [DK]
 
 - Pomiar jakości kodu
 
 - Narzędzia do bug trackingu
 
-- Zarządzanie projektem (np. Jira)
+- Zarządzanie projektem (np. Jira) [SW]
 
 - Systemy CD/CI
 
