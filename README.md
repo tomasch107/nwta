@@ -10,7 +10,7 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Narzędzia do modelowania i prototypowania
 
-- Narzędzia automatyzujące budowanie oprogramowania: Java
+- Narzędzia automatyzujące budowanie oprogramowania: Java [MH]
 
 - Narzędzia automatyzujące budowanie oprogramowania: web
 
