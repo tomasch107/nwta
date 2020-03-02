@@ -6,7 +6,7 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Systemy kontroli wersji i bazujące na nich serwisy internetowe
 
-- Metody pracy z repozytorium (na przykładzie Git Flow)
+- Metody pracy z repozytorium (na przykładzie Git Flow) [KFA]
 
 - Narzędzia do modelowania i prototypowania
 
