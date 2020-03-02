@@ -4,25 +4,25 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Edytory kodu (również online) i środowiska programistyczne [AS]
 
-- Systemy kontroli wersji i bazujące na nich serwisy internetowe
+- Narzędzia automatyzujące budowanie oprogramowania: Java [MH]
 
 - Metody pracy z repozytorium (na przykładzie Git Flow) [KFA]
 
-- Narzędzia do modelowania i prototypowania
-
-- Narzędzia automatyzujące budowanie oprogramowania: Java [MH]
-
-- Narzędzia automatyzujące budowanie oprogramowania: web
-
-- Narzędzia automatyzujące budowanie oprogramowania: C/C++
+- Narzędzia automatyzujące budowanie oprogramowania: C/C++ [KŁ]
 
 - Automatyczne testy funkcjonalne na przykładzie Selenium [DK]
+
+- Zarządzanie projektem (np. Jira) [SW]
+
+- Narzędzia do modelowania i prototypowania
+
+- Systemy kontroli wersji i bazujące na nich serwisy internetowe
+
+- Narzędzia automatyzujące budowanie oprogramowania: web
 
 - Pomiar jakości kodu
 
 - Narzędzia do bug trackingu
-
-- Zarządzanie projektem (np. Jira) [SW]
 
 - Systemy CD/CI
 
