@@ -42,4 +42,4 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Przepływ informacji i dokumentowanie projektu (np. Confluence)
 
-- Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API
+- Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API [PW]
