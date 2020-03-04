@@ -2,21 +2,23 @@
 
 Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez GitHuba, dopisując na końcu tematu w nawiasach kwadratowych swoje inicjały (to pierwszy test Waszych umiejętności). **Uwaga:** decyduje kolejność zgłoszeń!
 
-- Edytory kodu (również online) i środowiska programistyczne [AS]
+- (4.03.2020) Systemy kontroli wersji i bazujące na nich serwisy internetowe [AK]
+
+- (4.03.2020) Metody pracy z repozytorium (na przykładzie Git Flow) [KFA]
+
+- (18.03.2020) Edytory kodu (również online) i środowiska programistyczne [AS]
+
+- (18.03.2020) Zarządzanie projektem (np. Jira) [SW]
 
 - Narzędzia automatyzujące budowanie oprogramowania: Java [MH]
-
-- Metody pracy z repozytorium (na przykładzie Git Flow) [KFA]
 
 - Narzędzia automatyzujące budowanie oprogramowania: C/C++ [KŁ]
 
 - Automatyczne testy funkcjonalne na przykładzie Selenium [DK]
 
-- Zarządzanie projektem (np. Jira) [SW]
+- Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API [PW]
 
 - Narzędzia do modelowania i prototypowania
-
-- Systemy kontroli wersji i bazujące na nich serwisy internetowe
 
 - Narzędzia automatyzujące budowanie oprogramowania: web
 
@@ -42,4 +44,3 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Przepływ informacji i dokumentowanie projektu (np. Confluence)
 
-- Narzędzia wspomagające projektowanie, implementowanie i testowanie REST API [PW]
